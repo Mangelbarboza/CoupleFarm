@@ -10,11 +10,6 @@ Un videojuego de granja 2D para Android, construido desde cero con Kotlin y Jetp
 
 > **Descarga directa:** instala la versión más reciente desde [GitHub Releases](https://github.com/Mangelbarboza/CoupleFarm/releases/latest).
 
-<p align="center">
-  <img src="app/src/main/res/drawable-nodpi/farm_menu_background.png" alt="Pantalla principal de CoupleFarm" width="48%" />
-  <img src="app/src/main/res/drawable-nodpi/farm_map_v2.png" alt="Mapa pixel art de CoupleFarm" width="48%" />
-</p>
-
 ## Lo más destacado
 
 - Mundo 2D renderizado por capas, cámara con seguimiento, zoom y mapa completo.
