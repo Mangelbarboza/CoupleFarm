@@ -65,3 +65,17 @@ CoupleFarm está en desarrollo activo. La versión publicada es una build jugabl
 ---
 
 Diseñado y desarrollado por **Ángel Barboza**.
+
+## Galería
+
+<p align="center">
+  <img src="docs/screenshots/menu-principal.png" alt="Menú principal de CoupleFarm" width="30%" />
+  <img src="docs/screenshots/granja-y-mascotas.png" alt="Granja, ayudante y mascotas" width="30%" />
+  <img src="docs/screenshots/couple-market.png" alt="Tienda Couple Market" width="30%" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/mapa-completo.png" alt="Vista del mapa completo" width="30%" />
+  <img src="docs/screenshots/ajustes.png" alt="Ajustes de audio y conexión" width="30%" />
+  <img src="docs/screenshots/multijugador.png" alt="Pantalla multijugador" width="30%" />
+</p>
